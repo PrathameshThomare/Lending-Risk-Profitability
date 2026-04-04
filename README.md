@@ -176,12 +176,6 @@ This project demonstrates:
 
 ---
 
-## 🎤 Interview Summary
-
-> Built an end-to-end lending analytics dashboard using SQL and Power BI to analyze portfolio performance, identify high-risk borrower segments, and evaluate financial sustainability through risk and profitability metrics.
-
----
-
 ## 📌 Future Enhancements
 
 - Add machine learning model for default prediction  
